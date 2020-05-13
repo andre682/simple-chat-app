@@ -1,0 +1,9 @@
+{
+  "name": "simple-chat-app",
+  "version": "0.0.1",
+  "description": "A very simple P2P app",
+  "main": "index.js",
+  "repository": "git@github.com:andre682/simple-chat-app.git",
+  "author": "Andre Torbitoni <andre.torbitoni@gmail.com>",
+  "license": "BSD 3-Clause License"
+}
